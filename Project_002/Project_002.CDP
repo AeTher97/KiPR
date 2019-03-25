@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 6.0</creator>
+	<project>
+		<Creator type="key">ControlDesk</Creator>
+		<Name type="key">Project_002.CDP</Name>
+		<DisplayName type="key">Project_002</DisplayName>
+		<Flags type="key">4096</Flags>
+		<Type type="key">1</Type>
+		<UniqueID type="key">810148727</UniqueID>
+		<EntityID type="key">{BC7930F8-EC22-48D3-A8DB-886CE6BD645F}</EntityID>
+		<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+		<item>
+			<Targets type="key">project</Targets>
+			<Name type="key">Project_002</Name>
+			<DisplayName type="key">Project_002</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">710994957</UniqueID>
+			<EntityID type="key">{7647705A-C4A6-45E1-953C-C21A3CDA5D98}</EntityID>
+			<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			<item>
+				<Docs type="key">.doc,.docx,.pdf</Docs>
+				<Name type="key">Specifications</Name>
+				<DisplayName type="key">Specifications</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">446778267</UniqueID>
+				<EntityID type="key">{C48E9788-B75C-4EFF-89DD-BAFF6EA30B92}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.doc,.docx,.pdf</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.mpp</Docs>
+				<Name type="key">Project Plans</Name>
+				<DisplayName type="key">Project Plans</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">134182077</UniqueID>
+				<EntityID type="key">{AA7C7411-F06F-4EDD-9355-F22B2EF91269}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.mpp</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager_global</Targets>
+				<Name type="key">Global Data Sets</Name>
+				<DisplayName type="key">Global Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">29</Type>
+				<UniqueID type="key">563666161</UniqueID>
+				<EntityID type="key">{8A8144F4-03EC-4740-9BE3-D91FF1BD3B39}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">variablesmanagement</Targets>
+				<Name type="key">Variable Descriptions</Name>
+				<DisplayName type="key">Variable Descriptions</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">96434952</UniqueID>
+				<EntityID type="key">{D3F2FAE0-C559-4C05-A229-AD8C688E824F}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">Project_002.vdb</Name>
+					<DisplayName type="key">C:\Users\k19p800a\Documents\dSPACE\ControlDesk\6.0\Project_002\Variable Descriptions\Project_002.vdb</DisplayName>
+					<Path type="key">.\Variable Descriptions</Path>
+					<Flags type="key">276</Flags>
+					<Type type="key">18</Type>
+					<UniqueID type="key">130697033</UniqueID>
+					<EntityID type="key">{A6847178-37F8-4910-B5EB-0CB7E1358E3F}</EntityID>
+					<ItemInfoDate type="key">2019-03-25 09:12:59</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">irp.sdf</Name>
+					<DisplayName type="key">irp.sdf</DisplayName>
+					<Path type="key">.\Variable Descriptions\irp.sdf</Path>
+					<Flags type="key">18704</Flags>
+					<Type type="key">7</Type>
+					<UniqueID type="key">290069964</UniqueID>
+					<EntityID type="key">{498B7B97-6940-4641-B908-C65093BB828E}</EntityID>
+					<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoLog type="key">
+Original file added from ..\..\..\..\MATLAB\Poniedzialek8.00\irp.sdf [2019-03-25 08:11:39 (UTC)]
+</ItemInfoLog>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">irp.trc</Name>
+						<DisplayName type="key">irp.trc</DisplayName>
+						<Path type="key">.\Variable Descriptions\irp.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">248015534</UniqueID>
+						<EntityID type="key">{A4261AD7-C25D-48F4-898D-ADE6B287C7A9}</EntityID>
+						<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">irp.map</Name>
+						<DisplayName type="key">irp.map</DisplayName>
+						<Path type="key">.\Variable Descriptions\irp.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">184065224</UniqueID>
+						<EntityID type="key">{013AC964-D674-4831-86B2-023964ACCC98}</EntityID>
+						<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">irp.ppc</Name>
+						<DisplayName type="key">irp.ppc</DisplayName>
+						<Path type="key">.\Variable Descriptions\irp.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<Type type="key">30</Type>
+						<UniqueID type="key">228142466</UniqueID>
+						<EntityID type="key">{5FACEB51-1EE5-43EA-BE33-64548626FC4F}</EntityID>
+						<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">irp.trz</Name>
+						<DisplayName type="key">irp.trz</DisplayName>
+						<Path type="key">.\Variable Descriptions\irp.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">208534083</UniqueID>
+						<EntityID type="key">{0B3DD2DF-D100-4506-A868-498E2629DC85}</EntityID>
+						<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">29</Type>
+				<UniqueID type="key">604916740</UniqueID>
+				<EntityID type="key">{0E09EEC7-FE44-43BD-A4EC-54895E6CE7BF}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.vfe</Targets>
+				<Name type="key">Variable Filters</Name>
+				<DisplayName type="key">Variable Filters</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">2304</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">273663449</UniqueID>
+				<EntityID type="key">{5C8368C8-78A6-4A07-A098-B0B91F914D27}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.lab</Targets>
+				<Docs type="key">.lab,.txt</Docs>
+				<Name type="key">Label Lists</Name>
+				<DisplayName type="key">Label Lists</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">604064663</UniqueID>
+				<EntityID type="key">{96F4F4CD-CC9A-481A-8B51-DD2126AD1BD1}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">devicemanagement,platformmanagement</Targets>
+				<Name type="key">Global Devices</Name>
+				<DisplayName type="key">Global Devices</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">790219151</UniqueID>
+				<EntityID type="key">{00D001EB-610C-4A89-BB41-B887BE6760E5}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">interpreter,.py</Targets>
+				<Docs type="key">.py</Docs>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">52056676</UniqueID>
+				<EntityID type="key">{19EED341-4E95-4EA9-AB33-EF1FD705687F}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.py</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">busnavigator,.xml</Targets>
+				<Name type="key">BusNavigator</Name>
+				<DisplayName type="key">BusNavigator</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">552626087</UniqueID>
+				<EntityID type="key">{4231FD86-938A-4914-91E1-32584C18830C}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Description Sets</Name>
+				<DisplayName type="key">Signal Description Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">864451687</UniqueID>
+				<EntityID type="key">{AFCFECA0-1F81-4902-B4B9-8A6F76B24807}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">269185750</UniqueID>
+			<EntityID type="key">{1E107827-2CD3-4DE8-89A6-FE82A520405C}</EntityID>
+			<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			<item>
+				<Name type="key">Project.events</Name>
+				<DisplayName type="key">Project.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">834129744</UniqueID>
+				<EntityID type="key">{599233ED-70F7-4E28-9316-ACFAD1C0C865}</EntityID>
+				<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+			</item>
+		</item>
+	</project>
+	<experiments>
+		<experiment>
+			<Creator type="key">ControlDesk</Creator>
+			<Name type="key">Experiment_001.CDE</Name>
+			<DisplayName type="key">Experiment_001</DisplayName>
+			<Path type="key">.\Experiment_001</Path>
+			<Flags type="key">4096</Flags>
+			<Type type="key">2</Type>
+			<UniqueID type="key">685365214</UniqueID>
+			<EntityID type="key">{79EA419D-4ACA-486B-B42B-924CA9F0ACFC}</EntityID>
+			<ItemInfoDate type="key">2019-03-25 09:12:58</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k19p800a</ItemInfoAuthor>
+		</experiment>
+	</experiments>
+	<UserManager/>
+	<XILAPIEESPort Version="1"/>
+	<Interpreter/>
+	<VariablesManagement Version="85">
+		<CreatorVersion type="key">600000554</CreatorVersion>
+	</VariablesManagement>
+	<ProjectExperiment>
+		<LastActiveExperiment type="key">Experiment_001</LastActiveExperiment>
+	</ProjectExperiment>
+	<MeasureDataManagement Version="4"/>
+	<Instrumentation Version="1">
+		<UniqueIds Version="3">
+			<Count type="key">1</Count>
+			<File1 type="key">Experiment_001/Layout1</File1>
+			<Id1 type="key">0</Id1>
+		</UniqueIds>
+	</Instrumentation>
+	<DiagnosticsManagement/>
+	<PlatformManagement Version="8"/>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<LabelListFilter>
+			<LabelListFilterFile type="key"/>
+			<LabelListFilterActive type="key">0</LabelListFilterActive>
+		</LabelListFilter>
+		<AutomaticDownload/>
+	</DataSetManager>
+</Root>
